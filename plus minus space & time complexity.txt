@@ -1,0 +1,9 @@
+Plus Minus:
+
+Time complexity: O(n)
+
+The time complexity of this code is linear because the for loop will iterate an increasing amount of times dependent on the array size and do a constant amount of work for each iteration.
+
+Space complexity: O(c)
+
+The space complexity of this code will be constant because it uses the same amount of variables regardless of the input size.
